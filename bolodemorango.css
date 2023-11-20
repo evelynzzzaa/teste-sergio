@@ -1,0 +1,160 @@
+body {
+    background-color: #ffb2b2 ;
+}
+
+.titulo-principal {
+   text-align: center;
+   font-size: 50px;
+   font-style: italic;
+   color: #d80544;
+}
+
+header {
+    background-color: #e67777;
+    box-shadow: inset 0 0 30px #683c03;
+    margin: 20px 20px;
+}
+
+.sobre-o-bolo {
+    text-align: center;
+    color: #000000;
+    font-size: 35px;
+    font-style: italic;
+    padding-left: 30px 30px 30px 30px;
+   
+}
+
+.imagem {
+width: 250px;
+float: left;
+margin: 20px 20px 20px 20px;
+}
+
+.descrição {
+    display: inline-block;
+}
+
+main {
+    background-color: #e6ad77;
+    box-shadow: inset 0 0 30px #683c03;
+    margin: 20px 20px;
+}
+
+.imagem-paçoca {
+    width: 250px;
+    float: left;
+    margin: 20px 20px 20px 20px;
+}
+
+.titulo-paçoca {
+    color: #945400;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.bolo-paçoca {
+    color: #000000;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+footer {
+    background-color: rgb(255, 166, 93);
+    box-shadow: inset 0 0 30px #ffffff;
+    margin: 20px 20px;
+}
+
+.titulo-pessego {
+    color: #ee5f00;
+    text-align: center;
+    font-size: 55px;
+    font-style: italic;
+}
+
+.bolo-pessego {
+    color: #000000;
+    text-align: center;
+    font-size: 38px;
+    font-style: italic;
+}
+
+.imagem-pessego {
+    width: 250px;
+    float: left;
+    margin: 20px 20px 20px 20px;
+}
+
+.deseja-comprar {
+    color: #7c009b;
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+}
+
+
+fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+}
+.inputs {
+    font-weight: bold;
+    display: block;
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(139, 0, 182);
+}
+.inputs label {
+    display: block;
+    font: bold;
+    font-size: 30px;
+    font-style: italic;
+    color: #d435fc;
+}
+
+.Dona-Lurdes {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.deseja-comprar {
+    font-size: 55px;
+    color: #920286;
+    font-style: italic;
+    text-align: center;
+}
+
+.clique-aqui {
+    font-size: 30px;
+    font-style: italic;
+    color: #be198d;
+    margin: 30px 20px;
+}
+
+.Enviar {
+    width: 20%;
+    padding: 10px 0;
+    background: rgb(253, 144, 195);
+    color: #bd0f66;
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: italic;
+    border: none;
+    border-radius: 10px;
+    transition: 1s all;
+    cursor: pointer;
+    margin: 20px 70px;
+}
+
+.Enviar:hover {
+    background: rgb(255, 102, 173);
+    transform: scale(1.1)
+}
