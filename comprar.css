@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(184, 0, 113);
+}
+
+.banner {
+    width: 100%;
+}
+
+.oque-deseja {
+    text-align: center;
+    color: rgb(255, 248, 187);
+    font-size: 70px;
+    font-style: italic;
+
+}
+
+
+
+.ntn {
+    font-size: 26px;
+    font-style: italic;
+    color: rgb(255, 241, 178);
+    margin: 50px 30px;
+}
+
+.qual-sabor {
+    font-size: 40px;
+    font-style: italic;
+    color: bisque;
+}
+
+.pag {
+   font-size: 40px;
+   font-style: italic;
+   color: rgb(255, 255, 213);
+}
+
+
+.put {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.botão {
+    font-size: 40px;
+   font-style: italic;
+   color: rgb(255, 255, 213);
+   margin: 20px 20px;
+}
+
+.Enviar {
+    width: 20%;
+    padding: 10px 0;
+    background: rgb(255, 245, 199);
+    color: #d1066c;
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: italic;
+    border: none;
+    border-radius: 10px;
+    transition: 1s all;
+    cursor: pointer;
+    margin: 20px 70px;
+}
+
+.Enviar:hover {
+    background: rgb(255, 194, 102);
+    transform: scale(1.1)
+}
+
+.diva {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
